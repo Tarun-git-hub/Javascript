@@ -1,11 +1,11 @@
 let score = 35
 
- console.log(typeof(score))
+//  console.log(typeof(score))
 
 let changeInNumber = String(score)
 
- console.log(typeof changeInNumber)
- console.log(changeInNumber)
+//  console.log(typeof changeInNumber)
+//  console.log(changeInNumber)
 
 let string = "tarun"
 
@@ -23,3 +23,15 @@ let changeString = Boolean(string)
 // boolean can change into number as well as string
 // when we change empty string into boolean --> false
 // otherwise gives --> true
+
+                            /*****************************  Operations  ******************************** */
+
+console.log(1 + "3")
+console.log("3" + 1)
+console.log(1 + 4 + "7")
+console.log(1 + "9" + 4)
+console.log("2" + 3 + 7)
+
+
+
+
